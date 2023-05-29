@@ -15,11 +15,11 @@
 - 🔭 I’m currently working on UNC Chapel Hill modeling neuroimaging with machine learning.
 - 🌱 I’m currently learning human brain MRI data processing.
 - 👯 I’m looking to collaborate on lightsheet 3D microscopy image segmentation.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with how to make a time machine.
 - 💬 Ask me about ...
 - 📫 How to reach me: You can get my LinkedIn, ResearchGate, and Wechat in the top.
 - 😄 Pronouns: Zi-chyuan (/tʃüan/).
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Time machine is not a joke.
 -->
 
 😊 Thank you for reading my profile.
