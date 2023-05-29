@@ -10,9 +10,9 @@
     <img align='right' width='280' src='https://github-readme-stats.vercel.app/api?username=chrisa142857&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7'>
 </a>
 
-👋 I'm **Ziquan Wei** (魏梓泉 in Chinese). My research majors in neuroimage with machine learning.
+👋 I'm **Ziquan Wei** (魏梓泉 in Chinese). A researcher and PhD student at UNC Chapel Hill .
 
-- 🔭 I’m currently working on UNC Chapel Hill modeling neuroimaging with machine learning.
+- 🔭 I’m currently working on modeling neuroimaging with machine learning.
 - 🌱 I’m currently learning human brain MRI data processing.
 - 👯 I’m looking to collaborate on lightsheet 3D microscopy image segmentation.
 - 🤔 I’m looking for help with how to make a time machine.
