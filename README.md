@@ -20,7 +20,6 @@
 - 📫 How to reach me: You can get my LinkedIn, ResearchGate, and Wechat in the top.
 - 😄 Pronouns: Zi-chyuan (/tʃüan/).
 - ⚡ Fun fact: Time machine is not a joke.
--->
 
 😊 Thank you for reading my profile.
 
