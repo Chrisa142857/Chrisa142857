@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/arXiv-Wei_Z.-B31B1B?style=social&logo=arxiv)](https://arxiv.org/a/wei_z_3.html) &ensp;
 [![](https://img.shields.io/badge/LinkedIn-Z.--Wei-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/weiziquan142857/?locale=en_US) &ensp;
 [![](https://img.shields.io/badge/ResearchGate-Z.%20Wei-lightgrey?style=social&logo=researchgate)](https://www.researchgate.net/profile/Ziquan-Wei) &ensp;
-[![](https://img.shields.io/badge/WeChat-_Z._Wei_-blue?style=social&logo=wechat)](https://github.com/Chrisa142857/Chrisa142857/blob/main/wechat_QRcode.jpg) &ensp;
+[![](https://img.shields.io/badge/WeChat-_Z._Wei_-blue?style=social&logo=wechat)](https://github.com/Chrisa142857/Chrisa142857/blob/main/wechat_QRcode.JPG) &ensp;
 
 ### Hi there 👋
 
