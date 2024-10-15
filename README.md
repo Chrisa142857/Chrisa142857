@@ -16,9 +16,7 @@
 
 👋 I'm **Ziquan Wei** (魏梓泉 in Chinese). A researcher and PhD student at UNC Chapel Hill .
 
-- 🔭 I’m currently working on modeling neuroimaging with machine learning.
-- 🌱 I’m currently learning human brain MRI data processing.
-- 👯 I’m looking to collaborate on lightsheet 3D microscopy image segmentation.
+- 👯 I’m looking to collaborate on brain encoding and decoding.
 - 🤔 I’m looking for help with how to make a time machine.
 - 💬 Ask me about Ely Psy Kongroo.
 - 📫 How to reach me: You can get my LinkedIn, ResearchGate, and Wechat in the top.
