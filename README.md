@@ -1,8 +1,7 @@
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Z._Wei-lightblue?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=z1IYb2oAAAAJ&hl=en) &ensp;
 [![arXiv](https://img.shields.io/badge/arXiv-Z._Wei-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/a/wei_z_3.html) &ensp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Z._Wei-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weiziquan142857/?locale=en_US) &ensp;
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Z.%20Wei-lightgrey?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ziquan-Wei) &ensp;
-[![WeChat](https://img.shields.io/badge/WeChat-Z._Wei-blue?style=flat-square&logo=wechat&logoColor=white)](https://github.com/Chrisa142857/Chrisa142857/blob/main/wechat_QRcode.JPG)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Z.%20Wei-lightgrey?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ziquan-Wei)
 
 ### Hi there 👋
 
@@ -11,14 +10,22 @@
 - 👯 I’m looking to collaborate on brain encoding and decoding.
 - 🤔 I’m looking for help with how to make a time machine.
 - 💬 Ask me about Ely Psy Kongroo.
-- 📫 How to reach me: You can get my LinkedIn, ResearchGate, and Wechat in the top.
+- 📫 How to reach me: You can get my LinkedIn and ResearchGate in the top.
 - 😄 Pronunciation: Zi-chyuan (/tʃüan/).
 - ⚡ Fun fact: Time machine is not a joke.
+
+<!--
+GitHub stats cards, disabled 2026-09-19: the public github-readme-stats
+instance was returning errors, so both cards rendered as broken images.
+To restore them, deploy your own instance (see "Deploy Yourself" in
+https://github.com/anuraghazra/github-readme-stats ) and replace the
+host below with your own Vercel domain.
 
 <p align="center">
   <a href="https://github.com/Chrisa142857"><img alt="Ziquan Wei's GitHub stats" width="420" src="https://github-readme-stats.vercel.app/api?username=Chrisa142857&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7"></a>
   <a href="https://github.com/Chrisa142857?tab=repositories"><img alt="Most used languages" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisa142857&layout=compact&langs_count=6&theme=onedark&hide_title=true&bg_color=264653&border_color=2a9d8f&text_color=eae2b7"></a>
 </p>
+-->
 
 😊 Thank you for reading my profile.
 
