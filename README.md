@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with how to make a time machine.
 - 💬 Ask me about Ely Psy Kongroo.
 - 📫 How to reach me: You can get my LinkedIn, ResearchGate, and Wechat in the top.
-- 😄 Pronouns: Zi-chyuan (/tʃüan/).
+- 😄 Pronunciation: Zi-chyuan (/tʃüan/).
 - ⚡ Fun fact: Time machine is not a joke.
 
 <p align="center">
@@ -24,5 +24,5 @@
 
 <details>
 <summary>Powered Since May 2023</summary>
-<a href="https://hits.seeyoufarm.com"><img alt="Visit counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChrisa142857&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%8F%A0Visits++&edge_flat=false"/></a>
+<img alt="Profile visit counter" src="https://komarev.com/ghpvc/?username=Chrisa142857&label=%F0%9F%8F%A0%20Visits&color=79c83d&style=flat-square">
 </details>
